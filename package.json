@@ -1,0 +1,15 @@
+{
+  "name": "yahoo-options-proxy",
+  "version": "1.0.0",
+  "description": "Yahoo Finance options chain proxy for mainland China access",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
